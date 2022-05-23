@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hounest-Pirate
-- 👀 I’m interested in Backend Development, Machine Learning and Customer Relations Management Servinces
-- 🌱 I’m currently expanding my skills in Python
+- 👀 I’m interested in Cyber Security, Neural Networks and Computer Vision.
+- 🌱 I’m currently expanding my skills in Python, and Kali Linux.
 - 📫 How to reach me: nikosdritsakoswork@gmail.com and https://www.linkedin.com/in/nikos-dritsakos/
 
 <!---
